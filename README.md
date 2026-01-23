@@ -1,10 +1,10 @@
-## Hi I am Aaron
+## Hi im Aaron
 
 
 2nd Year Software development student in SETU Carlow
 
 🎓 Education
-B.Sc Degree in Software Developemet, SETU Carlow
+Currently studying for my B.Sc Degree in Software Developemet, SETU Carlow
 
 📬 Contact me
 Email: Aarontierney11@gmail.com
