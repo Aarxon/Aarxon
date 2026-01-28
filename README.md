@@ -1,4 +1,4 @@
-## Hi im Aaron
+## Hi I'm Aaron
 
 
 2nd Year Software development student in SETU Carlow
